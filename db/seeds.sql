@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name) VALUES ('turkey burger');
-INSERT INTO burgers (burger_name) VALUES ('bacon cheeseburger');
-INSERT INTO burgers (burger_name) VALUES ('bison burger');
+INSERT INTO burgers (burger_name, devoured) VALUES ('turkey burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('bacon cheeseburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('bison burger', false);
